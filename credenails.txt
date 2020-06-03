@@ -1,0 +1,15 @@
+ec2-user@18.217.76.226    (new - 3.135.189.16 )
+abcd123
+
+sql
+database1
+aayushi_project
+abcd123
+18.217.76.226:8001
+
+
+
+ml_3
+18.222.162.40
+
+http://18.222.162.40/predict.php?lotsize=1000&bathrms=2&stories=1&driveway=1&recroom=0&fullbase=0&gashw=0&airco=0&garagepl=1&prefarea=0
